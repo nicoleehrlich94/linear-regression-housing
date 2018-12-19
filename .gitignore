@@ -1,0 +1,10 @@
+# python virtual environment
+venv
+
+# jupyter files
+.ipynb_checkpoints
+
+# experiment files
+train
+load_file
+housing_exerpimentation
